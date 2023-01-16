@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/Abhishekyes?tab=repositories)
 
-- 📫 How to reach me **vabhi27762776@gmail.com**
+- 📫 How to reach me [**LinkedIn - @Abhishek**](https://www.linkedin.com/in/abhishek-44839420b)
 
 
 <h2 align="left">Languages and Tools:</h2>
