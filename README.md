@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource and Team Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Abhishekyes?tab=repositories](https://github.com/Abhishekyes?tab=repositories)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/Abhishekyes?tab=repositories)
 
 - 📫 How to reach me **vabhi27762776@gmail.com**
 
