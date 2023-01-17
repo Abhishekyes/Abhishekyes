@@ -1,33 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@Abhishekyes 
-Platane
-/
-snk
-Public
-Fork your own copy of Platane/snk
-Code
-Issues
-1
-Pull requests
-2
-Actions
-Security
-Insights
-snk/.github/workflows/main.yml
-@Platane
-Platane 👷 add test for svg only action
-Latest commit 62f6ff3 on Nov 3, 2022
- History
- 1 contributor
-112 lines (95 sloc)  3.14 KB
-
 name: main
 
 on: [push]
