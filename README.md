@@ -1,7 +1,7 @@
 ![logo](https://github.com/Abhishekyes/Abhishekyes/blob/main/Black%20Minimalist%20LinkedIn%20Banner.png)
 <h2 align="left">Hi there 👋 </h2>
 <h3 align="left">🙋‍♂️ About Me</h3>
-<img align ="right" alt="coding" width="400" src=https://www.freepik.com/premium-ai-image/sticker-boy-coding-computer-anime-s-creative-design-bold-line-cute-kawaii-st_74804595.htm
+<img align ="right" alt="coding" width="400" src=(https://github.com/Abhishekyes/Abhishekyes/blob/3931fdfef71f4d1113f49ddc7707d55025552064/lBW7W9WR_-HQZ_raw.jpg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekyes&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekyes" /> </p>
 
 - 🌱 I’m currently learning **Data Science.**
