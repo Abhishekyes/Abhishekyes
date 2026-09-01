@@ -1,29 +1,63 @@
-![logo](https://github.com/Abhishekyes/Abhishekyes/blob/main/Black%20Minimalist%20LinkedIn%20Banner.png)
-<h2 align="left">Hi there 👋 </h2>
-<h3 align="left">🙋‍♂️ About Me</h3>
-<img align ="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Abhishekyes/Abhishekyes/3931fdfef71f4d1113f49ddc7707d55025552064/lBW7W9WR_-HQZ_raw.jpg">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekyes&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekyes" /> </p>
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0575E6,100:00F260&height=220&section=header&text=Hi%20There,%20I%20am%20Abhishek%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Data%20Scientist%20%7C%20GenAI%20%26%20Agentic%20AI%20Engineer&descAlignY=55&descSize=18)
 
-- 🌱 I’m currently learning **Data Science.**
+![typing svg](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=0575E6&center=true&vCenter=true&width=650&lines=Data+Scientist+%7C+GenAI+%26+LLM+Engineer;Building+Agentic+AI+%26+RAG+Systems;Local+Voice+AI+%2B+MLOps+%2B+AWS+Bedrock;Open+to+Collaborations+%F0%9F%9A%80)
 
-- 👯 I’m looking to collaborate on **OpenSource and Team Projects**
+![profile views](https://komarev.com/ghpvc/?username=Abhishekyes&label=Profile%20Views&color=0575E6&style=for-the-badge) ![followers](https://img.shields.io/github/followers/Abhishekyes?label=Followers&style=for-the-badge&color=0575E6) ![stars](https://img.shields.io/github/stars/Abhishekyes?label=Stars&style=for-the-badge&color=00F260)
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/Abhishekyes?tab=repositories)
+## About Me
 
-- 📫 How to reach me [**LinkedIn - @Abhishek**](https://www.linkedin.com/in/abhishek-44839420b)
+&#8226; I specialize in **Data Science, Machine Learning, and Generative AI**, building RAG pipelines, LLM-powered agents, and data-driven products end to end.
 
+&#8226; Recent work spans **LangGraph &amp; LangChain agents, AWS Bedrock RAG systems, local voice assistants (Whisper + Ollama + edge-tts)**, and production MLOps pipelines.
 
-<h2 align="left">Languages and Tools:</h2>
-<p align="left"> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+&#8226; Currently deepening my expertise in **Agentic AI, fine-tuning, and MLOps**.
 
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://linkedin.com/in/_ abhishek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="_ abhishek" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/abhishek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhishek" height="30" width="40" /></a>
-</p>
+&#8226; Looking to collaborate on **open-source AI/ML and data science projects**.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekyes&show_icons=true&locale=en&layout=compact" alt="abhishekyes" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekyes&show_icons=true&locale=en" alt="abhishekyes" /></p>
+&#8226; Based in Ghaziabad, India. Reach me on [LinkedIn](https://www.linkedin.com/in/abhishek-44839420b) or browse my [full portfolio](https://github.com/Abhishekyes?tab=repositories).
 
+## Languages & Tools
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekyes&" alt="abhishekyes" /></p>
+![skills](https://skillicons.dev/icons?i=python,flask,mysql,postman,sklearn,git,github,vscode,jupyter,aws&perline=10)
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+## Featured Projects
+
+Project | Description
+---|---
+[Vrox Voice Agent](https://github.com/Abhishekyes/vrox-voice-agent) | Free, local Hindi/English voice companion using Whisper STT + Ollama LLM + edge-tts
+[Bedrock AWS RAG Agent](https://github.com/Abhishekyes/bedrock-aws-rag-intelligent-agent) | Intelligent RAG agent built on AWS Bedrock
+[LangGraph AI](https://github.com/Abhishekyes/Langgraph_AI) | Agentic AI workflows built with LangGraph
+[RAG Chatbot](https://github.com/Abhishekyes/RAG-Chatbot) | Retrieval-Augmented Generation chatbot
+[PDF Query LangChain](https://github.com/Abhishekyes/PDFQuery_LangChain) | Conversational PDF querying using LangChain
+[Industrial Accident Analysis](https://github.com/Abhishekyes/INDUSTRIAL-DATA-SET) | Root-cause analysis of manufacturing accidents across 12 plants
+[Employee Attrition Analysis](https://github.com/Abhishekyes/Employee-Company-Relationship) | Analysis &amp; visualization of key employee attrition drivers
+[Sales Forecasting](https://github.com/Abhishekyes/Store-Sales-Forecasting-using-Time-Series-Analysis) | Time-series forecasting for retail store sales
+
+## GitHub Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=Abhishekyes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekyes&layout=compact&theme=tokyonight&hide_border=true)
+
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhishekyes&theme=tokyonight&hide_border=true)
+
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhishekyes&theme=tokyo-night&hide_border=true)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Abhishekyes&theme=tokyonight&no-frame=true&row=1&column=6)
+
+### 3D Contribution Calendar
+
+![3d contrib](https://raw.githubusercontent.com/Abhishekyes/Abhishekyes/output/profile-3d-contrib/profile-night-rainbow.svg)
+
+### Contribution Snake
+
+![snake animation](https://raw.githubusercontent.com/Abhishekyes/Abhishekyes/output/github-contribution-grid-snake.svg)
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-44839420b)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/abhishek)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00F260,100:0575E6&height=120&section=footer)
+
