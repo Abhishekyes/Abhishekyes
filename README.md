@@ -1,4 +1,4 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:FF00C8,100:00F5FF&height=260&section=header&text=Hi%20There,%20I%20am%20Abhishek%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Data%20Scientist%20%7C%20GenAI%20%26%20Agentic%20AI%20Engineer&descAlignY=55&descSize=18&reversal=false)
+![banner](https://raw.githubusercontent.com/Abhishekyes/Abhishekyes/main/banner.svg)
 
 ![typing svg](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=0575E6&center=true&vCenter=true&width=650&lines=Data+Scientist+%7C+GenAI+%26+LLM+Engineer;Building+Agentic+AI+%26+RAG+Systems;Local+Voice+AI+%2B+MLOps+%2B+AWS+Bedrock;Open+to+Collaborations+%F0%9F%9A%80)
 
