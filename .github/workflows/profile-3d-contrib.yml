@@ -1,0 +1,27 @@
+name: 3D Contribution Calendar
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: generate-github-3d-contrib
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Push 3d contrib output to output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: profile-3d-contrib
+          destination_dir: profile-3d-contrib
+          keep_files: true
